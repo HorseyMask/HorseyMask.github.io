@@ -17,7 +17,7 @@ title: HorseyBlog
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   A little oasis for my thoughts and projects.
-baseurl: "/horseymask.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "horseymask.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HorseyMasque
 github_username:  HorseyMask
