@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "The EDC"
+date:   2019-07-13 03:33:00 +0900
+categories:
+---
+To start this blog with actual meaningful content, I thought that I'd just go over my everyday carry, or EDC. It's basically the stuff that I usually have on me on a daily basis if I'm going anywhere outside the house. Usually this would vary between if I'm just out meeting someone, or I'm headed to a class or out expecting to do actual work. With the list of stuff, I'll just give a mini-review of each item that I would carry around and use every day.
+
+### The bare minimum
+
+This is what I'd carry if I'm traveling around where a lot of luggage would hamper my experience or otherwise be unneccessary, or if there's a danger that I'd lose something. Some scenarios would be going out to meet some friends, running small errends, or just a short walk outside.
+
+* Phone: Samsung Galaxy S9+
+
+My mobile phone of choice. Still consider it the last Android phone that keeps the design choices that I hold important, the most important two being no notches and including the 3.5mm headphones jack. Storage flexibility with the micro-SD card slot earns brownie points for flexibility, but I got the 256GB model in the first place, so I found little use for that.
+
+Other things hardware-wise, the Exynos 9810 hasn't failed me in any usage case yet, with no slowdowns bad enough that I remember of. Also, the extra battery size on the S9+ is also great, and to my personal use, the phone lasts me the whole day and then some. However, I'm not really a heavy smartphone user, so my experience may be vastly different to yours. Finally, the OLED screen, following Samsung trends, is great and accurate enough for me.
+
+Not much of a camera guy in the first place, so the cameras on the S9+ is great, and I doubt I'd actually need more camera power then I have on this phone.
+
+Software wise, I really like One UI, Samsung's Android implementation, as I'm personally a fan of the design choices made. One UI having more features added to Android is just icing on the cake, such as screenshot options. Though I do still use Nova Launcher as my default launcher to replace the stock One UI launcher, just because I'm just more used to my setup on Nova Launcher.
+
+Overall, the Galaxy S9+ is basically my ideal phone for now, until the industry changes trends and actually puts back headphone jacks and no notches on the table. Notches may be gone with more technological advances in glass and display technology, but I'm not so sure for the headphone jack.
+
+* Wallet: Smartphone & Phone case
+
+When I'm traveling light, I rarely find the need to store paper money or a large selection of cards at all. I've grown used to mobile payment systems, like Samsung Pay, so I don't find much use in a wallet in a light travel situation. When I do need to make a physical payment, the phone case that I use that has room for one card suffices. I just keep my student ID in there, which doubles as a debit card.
+
+* Watch: Swatch New Gent
+
+Not the best watch, I know. Blame the 10 year old me that picked it out and never actually really wore it. Just got back into wearing a watch on my EDC, and guess this was the only choice.
+
+Honestly, the timetelling is still accurate when correctly set. Just getting it perfectly set, right to the second is pretty challenging sometimes, if you really want to be precise. However, the date mechanism on the watch is always a day late, with no amount of adjusting getting it to be fixed. That always bugs me.
+
+Otherwise, since I'm not that much of a watch enthusiast, and since I still dig the orange/black color scheme, I think the watch just suits me fine. As long as it can tell the time.
+
+* Earphones/IEM : VSonic GR07 Classic
+
+A recent upgrade from my ATH-IM70. I was looking for a sub-100$ upgrade, and by using [crinacle's list](https://crinacle.com/ranking-list/) and looking at the graphs frequency graphs, I came to the conclusion that the GR07 would be the best fit, and it was a great choice. Chi-Fi may be cheaper, but as long as the quality is there, I'm fine.
+
+While I love good audio, I can't trust myself to give a detailed review of audio products, and therefore I'll just end it by saying that the GR07s are great for any song that I listen it with. I find it as a great jack-of-all-trades IEM that I'm happy with listening to anything with.
+
+The accessory kit that came with it, while including a lot of stuff, wasn't the best fit for me. The earhooks were too big for my small ears, and I ended up just using the wire as hooks. The foam eartips were fine, not Comply foam, but the isolation is good and seems like the material will laster longer than Comply. I appreciated the large selection of eartips as well. Finally, I don't use the included carrying case at all.
+
+### The complete set
+
+This EDC kit would be if I'm going somewhere to get actual work done, such as going to a class. It can also be used if I'm going to be out all day, and I don't know what I would need while on the road. This EDC kit is inclusive of the previous "the bare minimum" kit.
+
+* Wallet : Kipling Wallet
+With more room to carry things in this kit, I do carry a wallet around in my backpack, but it is still rarely used. It holds my ID, other debit cards that I use much less often, as well as cash for emergencys when I would need it. I still either use Samsung Pay, or my card on my S9 case first, so the payment options here are just backups.
+
+* Laptop : ASUS Zenbook UX310U
+Actually bought this laptop on a whim when my old MacBook Pro from 2010 was simply too slow for any tasks, with the keyboard being broken just another reason to get an upgrade. Was looking into getting a ThinkPad, but with the stores I visited not having any, I decided to go with this ASUS laptop. With a i7-7500U, the laptop is fast enough for any task that I need to do on the go, whether that be typing an essay or doing coding assessments. The GeForce 940MX is also just fast enough for any random indie game that I feel like playing at the time, or if I feel for a quick round of TF2. I don't game on the go often, so it works in a pinch.
+
+Honestly though, the main reason I got this laptop is the ability to have a HDD + SSD combo in a laptop. Really like this feature, as I still listen to music from files, and I like having a cheap storage option like a HDD, even on a laptop. This feature on a relatively thin laptop turned this otherwise generic laptop into the perfect laptop for me.
+
+However, with the rise of laptop CPUs with more cores, and Intel's CPU issues with security and hyperthreading, I have been thinking of getting a new laptop to replace this one soon. For me, the new ThinkPads with AMD mobile CPUs are looking really attractive. Now only if they had room for a HDD + SSD combo...
+
+* Pencilcase : Nomadic PE-09
+
+Actually managed to never lose this pencilcase for like 4 years now. Guess it's just a testament to how much I like it. The pencilcase is huge, which allows me to carry all my stationary items that I might need, and then some. Some highlights here is my Lamy Safari, Pentel GraphGear 1000, and the Kuru Toga Advance. The Safari is a great starter fountain pen, and (hopefully) the only one I'll buy. The GraphGear is my go-to mechanical pencil usually, espically for maths and sciences. The Kuru Toga Advance is my backup mechanical pencil, but also for long writing sessions due to its turning point. Other things that I usually carry around in the pencilcase would be a USB drive and the Apple Pencil. Speaking of the Apple Pencil...
+
+* Tablet : iPad Air, 3rd Generation + Apple Pencil
+
+One of my new favorites to add to the work EDC. While I am a big fan of Android, the tablet area is, for a lack of a word, miserable. Hence turning to the only Apple product I'd praise - the iPad. Its main purpose is basically leading the forefront of my paperless movement—and it's really shown in my workflow. Notability, my note-taking app of choice, has taken over both notebooks and scratch paper. Whenever I'm in class, solving math problems, or studying for an exam, Notability is there. 
+
+Also, the iPad allowed me to grow a new hobby—drawing. Procreate, my drawing app of choice, just makes art fun, and I've started to self-learn how to draw. I've also pushed myself to actually draw stuff, whether that be fanart of my favorite anime shows or original creations of myself. I've also purchased Affinity Design with the intent to try to learn some vector art as well.
+
+Other than those two main usages, I don't really use it much other than ocassionaly consuming media on it, and I feel like I'm not getting the full potential out of it. But I do feel like for a lot of the other tasks I do, a laptop fits me more when I'm on the go. 
+
+That being said, I've been trying to use the iPad exclusively during class lectures, and honestly, it's been a game changer. I've even thought of buying a keyboard case for it to get even more use out of it. Espically with iPadOS coming soon that'll deliever a lot of much needed features to the iPad, I feel like the iPad will just get even more useful. If I don't need a full-blown desktop OS to perform tasks like coding, the iPad can probably be used instead of a laptop in a pinch.
+
+* Notebook: TRAVELER'S notebook, Regular size.
+
+While I have mentioned that I'm starting to go paperless, I still keep this paper notebook along with me wherever I go, just in case I still need paper to write on. The Traveler's Notebook system allows me to keep 3 seperate notebooks all in the same notebook, and I have a lined notebook, a blank notebook, and a monthly calendar. The lined paper would be used for general notes, while the blank paper would be used for random doodles I want to draw on paper. Finally, the monthly calendar is used as a planner to jot down future events. 
+
+I basically use the LAMY Safari exclusively on this notebook, and the paper quality shows when I use it with the Safari. Even though the paper is thin, there is no bleeding behind, making it a great experience to write or draw on. While it was pretty expensive when I bought it during my trip in Japan, I still highly recommend it if you want a quality notebook.
+
+* Calculator: TI-Nspire CX
+
+Started using this graphing calculator in my IB days, and to this day is my calculator of choice. Does most things that I want it to do in mathemathics, and if it doesn't work, it's probably either that I'm in the wrong, or it needs CAS features. The nSolve function has changed my life, and the powerful graphing features helped me in a pinch to find solutions the normal calculator features couldn't get. Now if only I didn't make the mistake of updating the OS, then I could have modified the OS and even install CAS features on it. Bummer.
+
+* Water Bottle : Random vacuum flask
+
+Just a normal vacuum flask that I picked up at a store. Keeps hot things hot, cold things cold. Does vacuum flask things well.
+
+### Conclusion
+
+Well, think that covers all the stuff I'd carry on a regular basis. May have missed stuff here and there, and/or may have upgraded, added, or removed some stuff in the future, so I guess this blog entry will stay a live document.
+
+This entry has gotten way too long, so I'll end it here. Thanks for reading.
