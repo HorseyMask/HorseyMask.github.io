@@ -2,8 +2,10 @@
 layout: post
 title:  "Kyoto Animation and me"
 date:   2019-07-30 01:50:00 +0900
-categories:
+categories: [anime]
 ---
+![Picture of the HQ of Kyoto Animations that I took on my trip to Kyoto.](/assets/images/7-30kyoani/kyoanihq.jpg){:class="img-responsive"}
+
 It took me a long time to think of how I wanted to write this blog post, and I'm still not very sure how I'd want to structure it. But here goes.
 
 ### Kyoto Animation - the one and only

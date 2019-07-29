@@ -2,7 +2,7 @@
 layout: post
 title:  "First step"
 date:   2019-07-08 01:41:55 +0900
-categories:
+categories: [personal]
 ---
 Been thinking of trying out some blogging for a while, and guess this is the first step. Welcome, random person, to the first post of the blog.
 
