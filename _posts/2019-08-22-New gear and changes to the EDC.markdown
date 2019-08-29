@@ -16,7 +16,7 @@ With summer vacation coming to an end, I’ve decided to do some back-to-school 
 
 Got this keyboard refurbished, which was a great deal. Even if the keys don’t have Korean legends on them, I don’t type that much in Korean nor do I look at the keyboard when I type, so more power to me I guess.
 
-Originally, I was planning to get the Logitech Slim Combo keyboard case, but the case was a lot more expensive than I wanted it to be. The case itself also added way too much bulk to the iPad, which was a bit unsightly. Worries about the kickstand and how well it’ll hold up from long sessions with the Apple Pencil was the final straw. From there, I looked to just get a cheaper, more universal bluetooth keyboard that I can use devices other than the iPad.
+Originally, I was planning to get the Logitech Slim Combo keyboard case, but the case was a lot more expensive than I wanted it to be. The case itself also added way too much bulk to the iPad, which was a bit unsightly. Worries about the kickstand and how well it’ll hold up from long sessions with the Apple Pencil was the final straw. From there, I looked to just get a cheaper, more universal bluetooth keyboard that I can use with devices other than the iPad.
 
 Anyways, back to the K380. Right now I’m typing this entry up on the iPad with the K380, and it’s not as bad as an experience that I thought it would be. I usually use a mechanical keyboard most of the time, and while comparing this keyboard to a mechanical one is unfair, the tactile feedback is quite acceptable, especially on the go. It’s definitely a productivity booster on the iPad, and makes the iPad a more formidable laptop replacement.
 
