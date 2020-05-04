@@ -2,7 +2,7 @@
 layout: post
 title:  "Keychron K6 mod log/ review - Lots of features with price cuts."
 date:   2020-05-04 10:30:23 +0900
-categories: [personal]
+categories: [tech]
 ---
 ![Unboxing.](/assets/images/2020-05-04keychron/20200504_113141.jpg){:class="img-responsive"}
 
@@ -17,7 +17,7 @@ Actually, the big one is that it has both hotswappability and Bluetooth connecti
 ### TL:DR
 Used 67g Zilent v2 switches. Get plate mount stabs and don't be dumb like me. Have a separate switch remover in handy. Lots of empty space in chassis, get your sound dampening foam ready.
 
-After the initial unboxing and being done with checking out the keyboard, I got to work first by removing the switches that were installed by default. I found the switches on this board to be much easier to remove with a switch remover than my other hotswap board, the Drop ALT keyboard. I am guess that it’s due to either different hotswap sockets, or the switch on the Drop ALT board (Halo Clears for me) just being harder to remove. Might just be my board.
+After the initial unboxing and being done with checking out the keyboard, I got to work first by removing the switches that were installed by default. I found the switches on this board to be much easier to remove with a switch remover than my other hotswap board, the Drop ALT keyboard. I am guessing that it’s due to either different hotswap sockets, or the switch on the Drop ALT board (Halo Clears for me) just being harder to remove. Might just be my board.
 ![Removing switches.](/assets/images/2020-05-04keychron/20200504_121200.jpg){:class="img-responsive"}
 
 Also, a notice that the included switch remover, in my experience, is garbage. It's not big enough to comfortably remove the switches at all. I tried using it for one switch, and immediately switched to the one that came with the ALT to remove the switches here.
